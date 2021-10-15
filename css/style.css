@@ -88,6 +88,7 @@ img{
 
 #menu_part{
     height: 80px;
+    background-color: rgb(18, 61, 59);
 }
 
 .menu-logo{
@@ -113,7 +114,7 @@ img{
 }
 
 .main_menu ul li a{
-    color: #353535;
+    color: #fff;
     font-size: 14px;
     font-weight: 400;
     font-family: myriadpro;
@@ -126,7 +127,7 @@ img{
     -o-transition: all linear 0.4s;
 }
 .main_menu ul li a:hover{
-    color: #0872b9;
+    color: red;
 }
 
 /* ===============================================
